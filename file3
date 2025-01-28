@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 print("maven")
-print("docker")
+print("docker"ti)
 print("shell")
+

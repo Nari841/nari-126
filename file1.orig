@@ -1,11 +1,9 @@
 https://github.com/Nari841/nari-126.gi
 <<<<<<< HEAD
-print("narendra")
-print ("diploma student")
-print("22272-cm-052 in CME")
+<<<<<<< HEAD
+print("jenkins")
+print ("gitbash")
 =======
-print("venkatesh")
-print ("b tech")
-print("in ECE")
->>>>>>> a7d15307c6f655bd62c76e66886e2cb396aead4d
-print("chnadhu")
+print("github")
+print ("linux")
+>>>>>>> 3bc586a812330fb4f57cb8624d3ba1c7faf78cf6

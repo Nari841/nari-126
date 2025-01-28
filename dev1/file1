@@ -1,0 +1,6 @@
+a=6
+b=12
+print("sum of a,b=",a+b)
+print(type(a))
+print(type(b))
+
